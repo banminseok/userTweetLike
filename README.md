@@ -1,1 +1,20 @@
 # userTweetLike
+
+#https://github.com/banminseok/userTweetLike.git
+#npm i prisma
+Prisma
+차세대 Node.js 및 TypeScript ORM
+npm i prisma
+https://www.prisma.io/orm
+
+prisma 초기화
+npx prisma init
+
+.env
+DATABASE_URL="file:./database.db"
+
+Prisma (VSCode Extension)
+https://marketplace.visualstudio.com/items?itemName=Prisma.prisma
+
+
+npx prisma migrate dev
